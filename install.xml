@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<name>Dutch (Nederlands)</name>
+	<version>2.0 stable</version>
+	<author>Elmigo</author>
+	<link>https://www.elmigo.nl/</link>
+	<code>elmigo_translation_dutch_2-0</code>
+	<description>Completely translates OpenCart 3.x admin and catalog to Dutch (Nederlands).</description>
+</modification>
