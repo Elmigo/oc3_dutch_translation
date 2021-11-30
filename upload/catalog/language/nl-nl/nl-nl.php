@@ -59,16 +59,16 @@ $_['button_grid']           = 'Raster';
 $_['button_map']            = 'Bekijk Google Maps';
 
 // Error
-$_['error_exception']       = 'Error Code(%s): %s in %s on line %s';
-$_['error_upload_1']        = 'Warning: The uploaded file exceeds the upload_max_filesize directive in php.ini!';
-$_['error_upload_2']        = 'Warning: The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form!';
-$_['error_upload_3']        = 'Warning: The uploaded file was only partially uploaded!';
-$_['error_upload_4']        = 'Warning: No file was uploaded!';
-$_['error_upload_6']        = 'Warning: Missing a temporary folder!';
-$_['error_upload_7']        = 'Warning: Failed to write file to disk!';
-$_['error_upload_8']        = 'Warning: File upload stopped by extension!';
-$_['error_upload_999']      = 'Warning: No error code available!';
-$_['error_curl']            = 'CURL: Error Code(%s): %s';
+$_['error_exception']       = 'Fout code(%s): %s in %s op regel %s';
+$_['error_upload_1']        = 'Waarschuwing: Het bestand is groter dan de upload_max_filesize waarde in php.ini!';!';
+$_['error_upload_2']        = 'Waarschuwing: Het bestand is groter dan de MAX_FILE_SIZE waarde gespecificeerd in het HTML-formulier!';
+$_['error_upload_3']        = 'Waarschuwing: Uploaden slechts gedeeltelijk gelukt!';
+$_['error_upload_4']        = 'Waarschuwing: Uploaden mislukt!';
+$_['error_upload_6']        = 'Waarschuwing: Een tijdelijke map ontbreekt!';
+$_['error_upload_7']        = 'Waarschuwing: Kon bestand niet opslaan';
+$_['error_upload_8']        = 'Waarschuwing: Uploaden onderbroken vanwege extensie!';
+$_['error_upload_999']      = 'Waarschuwing: Geen foutcode beschikbaar!';
+$_['error_curl']            = 'CURL: Fout Code(%s): %s';
 
 /* When doing translations only include the matching language code */
 
