@@ -4,7 +4,7 @@ $_['heading_title']    = 'Affiliate tracking';
 
 // Text
 $_['text_account']     = 'Account';
-$_['text_description'] = 'To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL\'s linking to us. You can use the tools below to generate links to the %s web site.';
+$_['text_description'] = 'Om ervoor te zorgen dat je wordt betaald voor verwijzingen die je naar ons stuurt, moeten we de verwijzing volgen door een trackingcode te plaatsen in de URL\'s die naar ons linken. Je kunt de onderstaande hulpprogramma\'s gebruiken om koppelingen naar de %s-website te genereren.';
 
 // Entry
 $_['entry_code']       = 'Jouw traceercode';
